@@ -1,4 +1,13 @@
 # CircuitPython
 My CircuitPython assignments
-These are the CircuitPython assignments I have completed as part of the Engineering 3 course.
+
+
+Hello CircuitPython (and Metro and Mu)
+CircuitPython Servo
+CircuitPython LCD
+CircuitPython Photointerrupters
+CircuitPython Distance Sensor
+Classes, Objects, and Modules
+Hello VS Code
+FancyLED
 
