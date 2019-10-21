@@ -31,14 +31,18 @@ We learned how to make an LCD count button presses and use a switch to alter the
 ### Photointerrupter 
 
 ##### Objective
+The objective of this assignment was to make the Serial Monitor count how many times a photointerrupter has been interrupted. It is to output an updated number every four seconds.
 
 ##### Lessons
+One of my biggest struggles was making the Serial Monitor print every four seconds without using the sleep function. I ended up learning how to do that with a timer instead of a looped function. 
 
 ### CircuitPython Distance Sensor
 
 ##### Objective 
+The objective of this assignment was to coordinate the distance sensor to the onboard LED. 
 
 ##### Lessons
+It wasn't 
 
 ### Classes, Objects, and Modules
 
