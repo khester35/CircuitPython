@@ -34,6 +34,7 @@ We learned how to use CircuitPython/Metro and Mu.
 
         fadeAmount = -fadeAmount
 '''
+##### Wiring
 
 ### CircuitPython Servo
 
@@ -78,6 +79,8 @@ We learned how to use capacitive touch, an entirely new concept this year. To ma
                 my_servo.angle += 1
             time.sleep(0.01)
             '''
+##### Wiring
+
 ### CircuitPython LCD
 
 ##### Objective 
@@ -130,6 +133,7 @@ We learned how to make an LCD count button presses and use a switch to alter the
             lcd.print("    ")
         lastbutton = button_a.value
         '''
+##### Wiring
         
 ### Photointerrupter 
 
@@ -165,6 +169,7 @@ One of my biggest struggles was making the Serial Monitor print every four secon
 
             lastbutton = photo.value
             '''
+##### Wiring
 
 ### CircuitPython Distance Sensor
 
@@ -206,6 +211,7 @@ In this assignment, we learned how to really work the onboard LED. I had never w
         print("Retrying!")
     time.sleep(0.1)
     '''
+##### Wiring
 
 ### Classes, Objects, and Modules
 
@@ -299,6 +305,7 @@ This assignment gave insight into what makes the things we regularly use in our 
                 self.b.duty_cycle = 2 ** 16-1
                 self.g.duty_cycle = 0+i
     '''
+##### Wiring
 
 ### Hello VS Code
 
@@ -315,6 +322,7 @@ This assignment was more introductory than anything else, but it was a really go
     While true: 
         print("It works!")
         '''
+##### Wiring
 
 ### FancyLED
 
@@ -406,3 +414,5 @@ The Classes, Objects, and Modules assignment was extremely helpful here because 
                 self.fancy3.value = False
                 time.sleep(uptime)
     '''
+##### Wiring
+    
