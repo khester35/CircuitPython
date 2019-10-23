@@ -416,4 +416,4 @@ The Classes, Objects, and Modules assignment was extremely helpful here because 
     '''
 ##### Wiring
     
-![FancyLED fritzing](github.com/khester35/CircuitPython/blob/master/media/fancyLED_bb.png)
+![FancyLED fritzing](file:///H:/Engineering/CircuitPython/Fritzing/fancyLED.fritz_bb.png)
