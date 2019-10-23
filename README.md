@@ -36,6 +36,8 @@ We learned how to use CircuitPython/Metro and Mu.
 '''
 ##### Wiring
 
+![LED Fade fritzing](media/ledfade.fritz_bb.png)
+
 ### CircuitPython Servo
 
 ##### Objective 
@@ -80,6 +82,8 @@ We learned how to use capacitive touch, an entirely new concept this year. To ma
             time.sleep(0.01)
             '''
 ##### Wiring
+
+![Servo fritzing](media/servo.fritz_bb.png)
 
 ### CircuitPython LCD
 
@@ -134,6 +138,8 @@ We learned how to make an LCD count button presses and use a switch to alter the
         lastbutton = button_a.value
         '''
 ##### Wiring
+
+![LCD fritzing](media/lcd.fritz_bb.png)
         
 ### Photointerrupter 
 
@@ -170,6 +176,8 @@ One of my biggest struggles was making the Serial Monitor print every four secon
             lastbutton = photo.value
             '''
 ##### Wiring
+
+![Photointerrupter fritzing](media/photointerrupter.fritz_bb.png)
 
 ### CircuitPython Distance Sensor
 
@@ -212,6 +220,8 @@ In this assignment, we learned how to really work the onboard LED. I had never w
     time.sleep(0.1)
     '''
 ##### Wiring
+
+![Distance Sensor fritzing](media/sensor.fritz_bb.png)
 
 ### Classes, Objects, and Modules
 
@@ -307,6 +317,8 @@ This assignment gave insight into what makes the things we regularly use in our 
     '''
 ##### Wiring
 
+![Classes, Objects, and Modules fritzing](media/rgb.fritz_bb.png)
+
 ### Hello VS Code
 
 ##### Objective 
@@ -322,7 +334,6 @@ This assignment was more introductory than anything else, but it was a really go
     While true: 
         print("It works!")
         '''
-##### Wiring
 
 ### FancyLED
 
